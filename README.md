@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md.Sajjad Hossain</h1>
 <h3 align="center">A Full Stack Developer with a specialization in the MERN (MongoDB, Express.js, React.js, Node.js) stack from Dhaka,Bangladesh</h3>
 
-<img align="right" width="400" alt="development" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" width="400" alt="development" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadmolliek&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadmolliek" /> </p>
 
@@ -25,9 +25,8 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://twitter.com/sajjadmolliek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajjadmolliek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajjadmolliek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad molliek" height="30" width="40" /></a>
-<a href="https://fb.com/sajjad molliek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadmolliek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sajjad-molliek-51612220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad molliek" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100071133422493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadmolliek" height="30" width="40" /></a>
 <a href="https://instagram.com/m.r.molliek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.r.molliek" height="30" width="40" /></a>
 </p>
 
@@ -47,6 +46,8 @@
 # GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajjadmolliek&theme=dark&border_radius=5.7&card_width=600)](https://git.io/streak-stats) 
+
+
 
 
 
