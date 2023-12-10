@@ -43,4 +43,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajjadmolliek&theme=moonlight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajjadmolliek&theme=moonlight&utcOffset=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajjadmolliek&theme=dark&border_radius=19.7&card_width=700)](https://git.io/streak-stats)
+![My_line-SVG](https://api.githubtrends.io/user/svg/sajjadmolliek/repos?time_range=one_year&theme=dark) ![My-Language](https://api.githubtrends.io/user/svg/sajjadmolliek/langs?time_range=one_year&loc_metric=changed&theme=dark)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajjadmolliek&theme=dark&border_radius=5.7&card_width=600)](https://git.io/streak-stats) 
+
+
+
