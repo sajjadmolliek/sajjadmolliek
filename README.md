@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sajjadmolliek2018@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P8UdxXa7r_FoCEh4dWTk3toPTJKJUBjL/view?usp=drive_link](https://drive.google.com/file/d/1P8UdxXa7r_FoCEh4dWTk3toPTJKJUBjL/view?usp=drive_link)
+- 📄 Know about my experiences [Portfolio-Website](https://sajjadmolliek.surge.sh/)
 
 # Connect with me:
 <p align="left">
