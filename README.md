@@ -25,7 +25,7 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/sajjad-molliek-51612220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad molliek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-sajjad-hossain-51612220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad molliek" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100071133422493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadmolliek" height="30" width="40" /></a>
 <a href="https://instagram.com/m.r.molliek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.r.molliek" height="30" width="40" /></a>
 </p>
