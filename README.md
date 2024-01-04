@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [online-study-explore](https://online-study-explore.web.app/)
 
-- 🤝 I’m looking for help with [shoes-store](https://shoes-store-c81c1.surge.sh/)
+- 🤝 I’m looking for help with [Recipe-Book](https://meal-cooking-book.surge.sh/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajjadmolliek](https://github.com/sajjadmolliek)
 
