@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md.Sajjad Hossain</h1>
 <h3 align="center">A Full Stack Developer with a specialization in the MERN (MongoDB, Express.js, React.js, Node.js) stack from Dhaka,Bangladesh</h3>
 
-<img align="right" width="400" alt="development" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" width="400" alt="development" src="https://nmc-radix.com/wp-content/uploads/2023/06/Difference-between-Web-Development-and-Web-Programming.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadmolliek&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadmolliek" /> </p>
 
